@@ -1,0 +1,1 @@
+#write a python program to print the contents of a directory using the os module. search for the function which is does that
